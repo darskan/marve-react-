@@ -13,7 +13,7 @@ function App() {
 
 
   const exampleApi = useFetch('http://gateway.marvel.com/v1/public/comics?ts=1&apikey=c142c42fc6f0a64e42394349c89e1db9&hash=4fe71777de7df9670812d8f354578cd7')
-  console.log(exampleApi)
+  
 
 
 
